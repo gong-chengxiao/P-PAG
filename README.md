@@ -1,4 +1,4 @@
-# PipL-ANNS
+# P-PAG: Pipelined In-Memory Vector Indexing on Pipeline-Aware Graph
 We build the code repository from a fork of [SymphonyQG](https://github.com/gouyt13/SymphonyQG). We keep the original directory and code structure.
 
 ## Directory structure
